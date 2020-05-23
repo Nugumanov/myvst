@@ -1,0 +1,337 @@
+  |  |-Plug-Ins
+  |  |  |-Components
+  |  |  |  |-AB_LM.component
+  |  |  |  |-AlterEgo.component
+  |  |  |  |-BC Chorus 4 AU(Mono).component
+  |  |  |  |-BC Chorus 4 AU(Stereo).component
+  |  |  |  |-BC Flanger 3 AU(Mono).component
+  |  |  |  |-BC Flanger 3 AU(Stereo).component
+  |  |  |  |-BC Phaser 3 AU(Mono).component
+  |  |  |  |-BC Phaser 3 AU(Stereo).component
+  |  |  |  |-BFDRUMZ.component
+  |  |  |  |-Beeper.component
+  |  |  |  |-BitterSweetV3-x64.component
+  |  |  |  |-Blooo.component
+  |  |  |  |-Boogex.component
+  |  |  |  |-ClipShifter.component
+  |  |  |  |-ComBear.component
+  |  |  |  |-Crystal.component
+  |  |  |  |-DCAMFreeComp.component
+  |  |  |  |-DJMFilter.component
+  |  |  |  |-DRUM PRO.component
+  |  |  |  |-DeltaModulator.component
+  |  |  |  |-Deputy.component
+  |  |  |  |-Dexed.component
+  |  |  |  |-Drumazon.component
+  |  |  |  |-Emissary.component
+  |  |  |  |-FB3100.component
+  |  |  |  |-FB3200.component
+  |  |  |  |-FB3300.component
+  |  |  |  |-FBDelay.component
+  |  |  |  |-FBPhaser.component
+  |  |  |  |-FBVC.component
+  |  |  |  |-Fathom.component
+  |  |  |  |-Fracture.component
+  |  |  |  |-FreqShifter.component
+  |  |  |  |-George Yohng's W1 Limiter.component
+  |  |  |  |-Hysteresis.component
+  |  |  |  |-ISOL8.component
+  |  |  |  |-Kairatune.component
+  |  |  |  |-Kern.component
+  |  |  |  |-KickMaker.component
+  |  |  |  |-Komplete Kontrol.component
+  |  |  |  |-Kontakt.component
+  |  |  |  |-LABS.component
+  |  |  |  |-LoudMax.component
+  |  |  |  |-MPS.component
+  |  |  |  |-MS-20.component
+  |  |  |  |-MS-20FX.component
+  |  |  |  |-Max1.component
+  |  |  |  |-MiniSpillage.component
+  |  |  |  |-ModulAir.component
+  |  |  |  |-MonoFury.component
+  |  |  |  |-Nabla.component
+  |  |  |  |-NadIR.component
+  |  |  |  |-OTT.component
+  |  |  |  |-Obxd.component
+  |  |  |  |-Paraphrasis.component
+  |  |  |  |-Podolski.component
+  |  |  |  |-Qyooo.component
+  |  |  |  |-Ragnarok.component
+  |  |  |  |-Raum.component
+  |  |  |  |-Reaktor 6.component
+  |  |  |  |-RoughRider2.component
+  |  |  |  |-SC Infinity Synth.component
+  |  |  |  |-SK10.component
+  |  |  |  |-SPL Free Ranger.component
+  |  |  |  |-SSDSampler5.component
+  |  |  |  |-Scrooo.component
+  |  |  |  |-SinevibesZap.component
+  |  |  |  |-SnareBuzz.component
+  |  |  |  |-SonEQFree.component
+  |  |  |  |-StereoToolV3-x64.component
+  |  |  |  |-Stigma.component
+  |  |  |  |-Supercharger.component
+  |  |  |  |-Surge.component
+  |  |  |  |-SurgeEffectsBank.component
+  |  |  |  |-SymptohmPE_AUMachO.component
+  |  |  |  |-Synsonic BD-808.component
+  |  |  |  |-Synsonic BD-909.component
+  |  |  |  |-Synth1.component
+  |  |  |  |-TAL-BassLine.component
+  |  |  |  |-TAL-Chorus-LX.component
+  |  |  |  |-TAL-Elek7ro-II.component
+  |  |  |  |-TAL-Filter-2.component
+  |  |  |  |-TAL-Filter.component
+  |  |  |  |-TAL-NoiseMaker.component
+  |  |  |  |-TAL-Reverb-2.component
+  |  |  |  |-TAL-Reverb-3.component
+  |  |  |  |-TAL-Reverb-4.component
+  |  |  |  |-TAL-U-NO-LX-V2.component
+  |  |  |  |-TAL-U-No-62.component
+  |  |  |  |-TAL-Vocoder-2.component
+  |  |  |  |-TDR Nova.component
+  |  |  |  |-TDR VOS SlickEQ.component
+  |  |  |  |-Trilobite_au32.component
+  |  |  |  |-Trilobite_au64.component
+  |  |  |  |-TripleCheese.component
+  |  |  |  |-Tube Amp.component
+  |  |  |  |-TyrellN6.component
+  |  |  |  |-UVIWorkstationAU.component
+  |  |  |  |-ValhallaFreqEcho.component
+  |  |  |  |-WAVESTATION.component
+  |  |  |  |-Waveshaper.component
+  |  |  |  |-Youlean Loudness Meter 2.component
+  |  |  |  |-bx_cleansweep V2.component
+  |  |  |  |-bx_rockrack V3 Player.component
+  |  |  |  |-bx_solo.component
+  |  |  |  |-bx_subfilter.component
+  |  |  |  |-dpMeter4.component
+  |  |  |  |-elysia niveau filter.component
+  |  |  |  |-helm.component
+  |  |  |  |-iZOzone8ElementsAUHook.component
+  |  |  |  |-mvMeter2.component
+  |  |  |  |-pink.component
+  |  |  |  |-sTilt.component
+  |  |  |  |-sforzando.component
+  |  |  |  |-tunefish4.component
+  |  |  |-HAL
+  |  |  |  |-AirPlay.driver
+  |  |  |  |-AppleAVBAudio.driver
+  |  |  |  |-AppleTimeSyncAudioClock.driver
+  |  |  |  |-BluetoothAudioPlugIn.driver
+  |  |  |  |-BridgeAudioSP.driver
+  |  |  |  |-MOTUCoreUACAudioServerPlugin.driver
+  |  |  |  |-iSightAudio.driver
+  |  |  |-MAS
+  |  |  |-RemoteInput
+  |  |  |  |-AudioAppleSiriRemoteInput.bundle
+  |  |  |-SHB-1.vst
+  |  |  |-VST
+  |  |  |  |-AB_LM.vst
+  |  |  |  |-Beeper.vst
+  |  |  |  |-Boogex.vst
+  |  |  |  |-COMP
+  |  |  |  |  |-RoughRider2.vst
+  |  |  |  |-ClipShifter.vst
+  |  |  |  |-Correlometer.vst
+  |  |  |  |-DRUMS
+  |  |  |  |  |-BFDRUMS.vst
+  |  |  |  |  |-DJinnDrumVST2.vst
+  |  |  |  |  |-DRUM PRO.vst
+  |  |  |  |  |-KickMaker.vst
+  |  |  |  |  |-SSDSampler5.vst
+  |  |  |  |  |-T.Rex 606 v1.01.vst
+  |  |  |  |-Drumazon.vst
+  |  |  |  |-EQ and filters
+  |  |  |  |  |-BC Triple EQ 4 VST(Dual).vst
+  |  |  |  |  |-BC Triple EQ 4 VST(Mono).vst
+  |  |  |  |  |-BC Triple EQ 4 VST(Stereo).vst
+  |  |  |  |  |-DJMFilter.vst
+  |  |  |  |  |-Frohmage_VST2MachO.vst
+  |  |  |  |  |-Marvel GEQ.vst
+  |  |  |  |  |-Overtone GEQ.vst
+  |  |  |  |  |-SPL Free Ranger.vst
+  |  |  |  |  |-SonEQFree.vst
+  |  |  |  |  |-TAL-Filter-2.vst
+  |  |  |  |  |-TAL-Filter.vst
+  |  |  |  |  |-TDR Nova.vst
+  |  |  |  |  |-TDR VOS SlickEQ.vst
+  |  |  |  |  |-elysia niveau filter.vst
+  |  |  |  |  |-sTilt.vst
+  |  |  |  |-FBVC.vst
+  |  |  |  |-FX
+  |  |  |  |  |-BC Chorus 4 VST(Mono).vst
+  |  |  |  |  |-BC Chorus 4 VST(Stereo).vst
+  |  |  |  |  |-BC Flanger 3 VST(Mono).vst
+  |  |  |  |  |-BC Flanger 3 VST(Stereo).vst
+  |  |  |  |  |-BC Phaser 3 VST(Mono).vst
+  |  |  |  |  |-BC Phaser 3 VST(Stereo).vst
+  |  |  |  |  |-DCAMFreeComp.vst
+  |  |  |  |  |-DeltaModulator.vst
+  |  |  |  |  |-FBDelay.vst
+  |  |  |  |  |-FBPhaser.vst
+  |  |  |  |  |-Fracture.vst
+  |  |  |  |  |-FreqShifter.vst
+  |  |  |  |  |-Hysteresis.vst
+  |  |  |  |  |-OTT.vst
+  |  |  |  |  |-OldSkoolVerb.vst
+  |  |  |  |  |-Raum.vst
+  |  |  |  |  |-Supercharger.vst
+  |  |  |  |  |-TAL-Chorus-LX.vst
+  |  |  |  |  |-TAL-Reverb-2.vst
+  |  |  |  |  |-TAL-Reverb-3.vst
+  |  |  |  |  |-TAL-Reverb-4.vst
+  |  |  |  |  |-TAL-Vocoder-2.vst
+  |  |  |  |  |-ValhallaFreqEcho.vst
+  |  |  |  |-Flux
+  |  |  |  |  |-BitterSweetV3-x64.vst
+  |  |  |  |  |-StereoToolV3-x64.vst
+  |  |  |  |-KORG
+  |  |  |  |  |-MS-20.vst
+  |  |  |  |  |-MS-20FX.vst
+  |  |  |  |  |-WAVESTATION.vst
+  |  |  |  |-KickMaker.vst
+  |  |  |  |-Komplete Kontrol.vst
+  |  |  |  |-Kontakt.vst
+  |  |  |  |-LABS.vst
+  |  |  |  |-Latency Delay.vst
+  |  |  |  |-LoudMax.vst
+  |  |  |  |-MASTER
+  |  |  |  |  |-ISOL8.vst
+  |  |  |  |  |-Ozone 8 Elements.vst
+  |  |  |  |  |-SPAN.vst
+  |  |  |  |  |-Youlean Loudness Meter 2.vst
+  |  |  |  |  |-dpMeter4.vst
+  |  |  |  |  |-mvMeter2.vst
+  |  |  |  |-MSED.vst
+  |  |  |  |-Max1.vst
+  |  |  |  |-Molot.vst
+  |  |  |  |-Reaktor 6 FX.vst
+  |  |  |  |-Reaktor 6.vst
+  |  |  |  |-SK10.vst
+  |  |  |  |-SYNTH
+  |  |  |  |  |-AlterEgo.vst
+  |  |  |  |  |-Blooo.vst
+  |  |  |  |  |-Crystal.vst
+  |  |  |  |  |-Deputy.vst
+  |  |  |  |  |-Dexed.vst
+  |  |  |  |  |-FB3100.vst
+  |  |  |  |  |-FB3200.vst
+  |  |  |  |  |-FB3300.vst
+  |  |  |  |  |-Fathom.vst
+  |  |  |  |  |-Kairatune.vst
+  |  |  |  |  |-Kern.vst
+  |  |  |  |  |-MPS.vst
+  |  |  |  |  |-ModulAir.vst
+  |  |  |  |  |-ModulAirFX.vst
+  |  |  |  |  |-MonoFury.vst
+  |  |  |  |  |-Nabla.vst
+  |  |  |  |  |-Obxd.vst
+  |  |  |  |  |-PG-8X.vst
+  |  |  |  |  |-Qyooo.vst
+  |  |  |  |  |-Ragnarok.vst
+  |  |  |  |  |-SC Infinity Synth.vst
+  |  |  |  |  |-Scrooo.vst
+  |  |  |  |  |-SequencAir.vst
+  |  |  |  |  |-Stigma.vst
+  |  |  |  |  |-Surge.vst
+  |  |  |  |  |-Synth1.vst
+  |  |  |  |  |-TAL-BassLine.vst
+  |  |  |  |  |-TAL-Elek7ro-II.vst
+  |  |  |  |  |-TAL-NoiseMaker.vst
+  |  |  |  |  |-TAL-U-No-62.vst
+  |  |  |  |  |-helm.vst
+  |  |  |  |  |-tf4programs
+  |  |  |  |  |-tunefish4.vst
+  |  |  |  |-SnareBuzz.vst
+  |  |  |  |-Sound Delay.vst
+  |  |  |  |-Stereo Touch.vst
+  |  |  |  |-TAL-U-NO-LX-V2.vst
+  |  |  |  |-Tube Amp.vst
+  |  |  |  |-UVIWorkstationVST.vst
+  |  |  |  |-bx_cleansweep V2.vst
+  |  |  |  |-bx_solo.vst
+  |  |  |  |-bx_subfilter.vst
+  |  |  |  |-guitar
+  |  |  |  |  |-Anvil.vst
+  |  |  |  |  |-Emissary.vst
+  |  |  |  |  |-NRR-1.vst
+  |  |  |  |  |-NadIR.vst
+  |  |  |  |  |-PTEq-X.vst
+  |  |  |  |  |-ProFET.vst
+  |  |  |  |  |-SHB-1.vst
+  |  |  |  |  |-TPA-1.vst
+  |  |  |  |  |-TS-999.vst
+  |  |  |  |  |-TSB-1.vst
+  |  |  |  |  |-bx_rockrack V3 Player.vst
+  |  |  |  |-hypercyclic.vst
+  |  |  |  |-pink.vst
+  |  |  |  |-sforzando.vst
+  |  |  |  |-u-he
+  |  |  |  |  |-Podolski.vst
+  |  |  |  |  |-TripleCheese.vst
+  |  |  |  |  |-TyrellN6.vst
+  |  |  |  |  |-ZRev.vst
+  |  |  |  |  |-Zebralette.vst
+  |  |  |  |  |-Zebrify.vst
+  |  |  |-VST3
+  |  |  |  |-AlterEgo.vst3
+  |  |  |  |-Analyzers
+  |  |  |  |  |-SPAN.vst
+  |  |  |  |  |-Youlean Loudness Meter 2.vst3
+  |  |  |  |  |-s(M)exoscope.vst3
+  |  |  |  |-Anvil.vst3
+  |  |  |  |-BC FreqAnalyst 2 VST3(Mono).vst3
+  |  |  |  |-BC FreqAnalyst 2 VST3(Stereo).vst3
+  |  |  |  |-Boogex.vst3
+  |  |  |  |-ClipShifter.vst3
+  |  |  |  |-Correlometer.vst3
+  |  |  |  |-Emissary.vst3
+  |  |  |  |-KickMaker.vst
+  |  |  |  |-LABS.vst3
+  |  |  |  |-Latency Delay.vst3
+  |  |  |  |-MSED.vst3
+  |  |  |  |-Marvel GEQ.vst3
+  |  |  |  |-Max1.vst3
+  |  |  |  |-NRR-1.vst3
+  |  |  |  |-NadIR.vst3
+  |  |  |  |-Oberom.vst3
+  |  |  |  |-OldSkoolVerb.vst3
+  |  |  |  |-Overtone GEQ.vst3
+  |  |  |  |-Ozone 8 Elements.vst3
+  |  |  |  |-PTEq-X.vst3
+  |  |  |  |-Podolski.vst3
+  |  |  |  |-ProFET.vst3
+  |  |  |  |-RoughRider2.vst3
+  |  |  |  |-SC Infinity Synth.vst3
+  |  |  |  |-SPL Free Ranger.vst3
+  |  |  |  |-SQ8ROM.vst3
+  |  |  |  |-SnareBuzz.vst3
+  |  |  |  |-SonEQFree.vst3
+  |  |  |  |-Sound Delay.vst3
+  |  |  |  |-Stereo Touch.vst3
+  |  |  |  |-Surge.vst3
+  |  |  |  |-SurgeEffectsBank.vst3
+  |  |  |  |-TAL-Chorus-LX.vst3
+  |  |  |  |-TAL-Filter-2.vst3
+  |  |  |  |-TAL-Filter.vst3
+  |  |  |  |-TAL-Reverb-4.vst3
+  |  |  |  |-TAL-U-NO-LX-V2.vst3
+  |  |  |  |-TAL-Vocoder-2.vst3
+  |  |  |  |-TBProAudio
+  |  |  |  |  |-AB_LM.vst3
+  |  |  |  |  |-ISOL8.vst3
+  |  |  |  |  |-dpMeter4.vst3
+  |  |  |  |  |-mvMeter2.vst3
+  |  |  |  |  |-sTilt.vst3
+  |  |  |  |-TDR VOS SlickEQ.vst3
+  |  |  |  |-TripleCheese.vst3
+  |  |  |  |-TyrellN6.vst3
+  |  |  |  |-bx_cleansweep V2.vst3
+  |  |  |  |-bx_rockrack V3 Player.vst3
+  |  |  |  |-bx_solo.vst3
+  |  |  |  |-bx_subfilter.vst3
+  |  |  |  |-elysia niveau filter.vst3
+  |  |  |  |-helm.vst3
+  |  |  |  |-sforzando.vst3
